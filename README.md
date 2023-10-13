@@ -1,15 +1,6 @@
 # Jon Apiscope
 ### 🏴‍☠️ HACKS 
 
-<br/>
-
-📚 tutoriales de python [tutorial 1](https://docs.python.org/es/3/tutorial/) | [tutorial 2](https://www.w3schools.com/python/)
----
-
-```diff
-- NOTA HACER LAS PRÁCTICAS MEDIANTE VISUAL STUDIO CODE  
-```
-
 ```diff
 * 1) Tienes que clonar el repositorio 
   git clone https://github.com/SocialOplesk/test_python_hack_1.git
@@ -39,3 +30,7 @@
 <br/> 
 
 ## 🏆 Resultados
+
+[Evidencia de test](https://github.com/jonvag/HACK4-python/blob/develop/Screenshot.png) 
+
+![Alt text](Screenshot.png)
